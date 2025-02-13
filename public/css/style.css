@@ -72,7 +72,11 @@ body {
 }
 
 .message {
-    max-width: 80%;
+    max-width: 80%; /* Limit width */
+    margin: 20px auto; /* Center horizontally */
+    text-align: center; /* Center text */
+    overflow-wrap: break-word; /* Ensure text wraps */
+    word-wrap: break-word;
 }
 
 .banner-gif {
