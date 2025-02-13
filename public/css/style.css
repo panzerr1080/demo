@@ -134,7 +134,7 @@ body {
 }
 
 /* CSS For Mobile */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .language-selector {
         position: unset;
         margin-top: 30px;
