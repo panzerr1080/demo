@@ -72,7 +72,7 @@ body {
 }
 
 .message {
-    display: none;
+    max-width: 80%;
 }
 
 .banner-gif {
